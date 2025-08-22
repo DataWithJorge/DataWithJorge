@@ -27,7 +27,13 @@
   *ETL, data modeling, and modern warehouse design*  
 
 - 📈 [SQL Data Analytics Project](https://github.com/DataWithJorge/sql-data-analytics-project)  
-  *SQL scripts for change-over-time, cumulative, and segmentation analysis*  
+  *SQL scripts for change-over-time, cumulative, and segmentation analysis*
+
+  ## 📊 Tableau Portfolio
+Check out my dashboards on [Tableau Public](https://public.tableau.com/app/profile/jorge.padilla7585/vizzes)
+
+- 📈 HR Dashboard Project  
+- 🍴 Sales Dashboard Project
 
 ---
 
