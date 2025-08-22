@@ -38,7 +38,7 @@ Check out my dashboards on [Tableau Public](https://public.tableau.com/app/profi
 ---
 
 ## 🌟 Fun Facts
-- First-generation Latino, proud of my East LA roots  
+- First-generation Latino, proud of my LA roots  
 - I love coffee almost as much as data ☕  
 - My motto: *“Keep building, keep learning.”*  
 
