@@ -32,8 +32,8 @@
   ## 📊 Tableau Portfolio
 Check out my dashboards on [Tableau Public](https://public.tableau.com/app/profile/jorge.padilla7585/vizzes)
 
-- 📈 HR Dashboard Project  
-- 🍴 Sales Dashboard Project
+- HR Dashboard Project  
+- Sales Dashboard Project
 
 ---
 
