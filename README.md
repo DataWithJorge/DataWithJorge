@@ -26,7 +26,7 @@
 - 📦 [SQL Data Warehouse Project](https://github.com/DataWithJorge/sql-data-warehouse-project)  
   *ETL, data modeling, and modern warehouse design*  
 
-- 📈 [SQL Data Analytics Project](https://github.com/DataWithJorge/sql-data-analytics-project)  
+- 📈 [SQL Data Analytics Project](https://github.com/DataWithJorge/sql-data-analytics-project](https://github.com/DataWithJorge/sql-exploratory-data-analysis-project)  
   *SQL scripts for change-over-time, cumulative, and segmentation analysis*
 
   ## 📊 Tableau Portfolio
