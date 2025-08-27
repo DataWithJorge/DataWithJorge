@@ -17,7 +17,7 @@
 - **Databases:** SQL Server, Snowflake  
 - **Visualization:** Tableau, Power BI  
 - **Languages:** SQL, Python (beginner)  
-- **Cloud:** Azure (certified in AZ-900, studying AZ-104)  
+- **Cloud:** Azure (certified in AZ-900, AZ-104)  
 - **Other:** GitHub, Workato, Confluence, Zendesk, ServiceNow  
 
 ---
